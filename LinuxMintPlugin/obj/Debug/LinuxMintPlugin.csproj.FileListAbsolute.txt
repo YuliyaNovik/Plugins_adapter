@@ -1,0 +1,12 @@
+D:\учеба\4 сем\ООП\Lab4\LinuxMintPlugin\bin\Debug\LinuxMintPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\LinuxMintPlugin\bin\Debug\LinuxMintPlugin.pdb
+D:\учеба\4 сем\ООП\Lab4\LinuxMintPlugin\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab4\LinuxMintPlugin\obj\Debug\LinuxMintPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\LinuxMintPlugin\obj\Debug\LinuxMintPlugin.pdb
+D:\Study\Yuliya\Lab4\LinuxMintPlugin\bin\Debug\LinuxMintPlugin.dll
+D:\Study\Yuliya\Lab4\LinuxMintPlugin\bin\Debug\LinuxMintPlugin.pdb
+D:\Study\Yuliya\Lab4\LinuxMintPlugin\bin\Debug\PluginApi.dll
+D:\Study\Yuliya\Lab4\LinuxMintPlugin\bin\Debug\PluginApi.pdb
+D:\Study\Yuliya\Lab4\LinuxMintPlugin\obj\Debug\LinuxMintPlugin.csprojResolveAssemblyReference.cache
+D:\Study\Yuliya\Lab4\LinuxMintPlugin\obj\Debug\LinuxMintPlugin.dll
+D:\Study\Yuliya\Lab4\LinuxMintPlugin\obj\Debug\LinuxMintPlugin.pdb

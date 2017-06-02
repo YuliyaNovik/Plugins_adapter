@@ -1,0 +1,14 @@
+D:\учеба\4 сем\ООП\Lab4\LinuxMintDebianEditionPlugin\bin\Debug\LinuxMintDebianEditionPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\LinuxMintDebianEditionPlugin\bin\Debug\LinuxMintDebianEditionPlugin.pdb
+D:\учеба\4 сем\ООП\Lab4\LinuxMintDebianEditionPlugin\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab4\LinuxMintDebianEditionPlugin\obj\Debug\LinuxMintDebianEditionPlugin.csprojResolveAssemblyReference.cache
+D:\учеба\4 сем\ООП\Lab4\LinuxMintDebianEditionPlugin\obj\Debug\LinuxMintDebianEditionPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\LinuxMintDebianEditionPlugin\obj\Debug\LinuxMintDebianEditionPlugin.pdb
+D:\учеба\4 сем\ООП\Lab4\LinuxMintDebianEditionPlugin\bin\Debug\PluginApi.pdb
+D:\Study\Yuliya\Lab4\LinuxMintDebianEditionPlugin\bin\Debug\LinuxMintDebianEditionPlugin.dll
+D:\Study\Yuliya\Lab4\LinuxMintDebianEditionPlugin\bin\Debug\LinuxMintDebianEditionPlugin.pdb
+D:\Study\Yuliya\Lab4\LinuxMintDebianEditionPlugin\bin\Debug\PluginApi.dll
+D:\Study\Yuliya\Lab4\LinuxMintDebianEditionPlugin\bin\Debug\PluginApi.pdb
+D:\Study\Yuliya\Lab4\LinuxMintDebianEditionPlugin\obj\Debug\LinuxMintDebianEditionPlugin.csprojResolveAssemblyReference.cache
+D:\Study\Yuliya\Lab4\LinuxMintDebianEditionPlugin\obj\Debug\LinuxMintDebianEditionPlugin.dll
+D:\Study\Yuliya\Lab4\LinuxMintDebianEditionPlugin\obj\Debug\LinuxMintDebianEditionPlugin.pdb

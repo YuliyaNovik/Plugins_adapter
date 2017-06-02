@@ -1,0 +1,14 @@
+D:\учеба\4 сем\ООП\Lab4\UbuntuPlugin\obj\Debug\UbuntuPlugin.csprojResolveAssemblyReference.cache
+D:\учеба\4 сем\ООП\Lab4\UbuntuPlugin\bin\Debug\UbuntuPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\UbuntuPlugin\bin\Debug\UbuntuPlugin.pdb
+D:\учеба\4 сем\ООП\Lab4\UbuntuPlugin\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab4\UbuntuPlugin\obj\Debug\UbuntuPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\UbuntuPlugin\obj\Debug\UbuntuPlugin.pdb
+D:\учеба\4 сем\ООП\Lab4\UbuntuPlugin\bin\Debug\PluginApi.pdb
+D:\Study\Yuliya\Lab4\UbuntuPlugin\bin\Debug\UbuntuPlugin.dll
+D:\Study\Yuliya\Lab4\UbuntuPlugin\bin\Debug\UbuntuPlugin.pdb
+D:\Study\Yuliya\Lab4\UbuntuPlugin\bin\Debug\PluginApi.dll
+D:\Study\Yuliya\Lab4\UbuntuPlugin\bin\Debug\PluginApi.pdb
+D:\Study\Yuliya\Lab4\UbuntuPlugin\obj\Debug\UbuntuPlugin.csprojResolveAssemblyReference.cache
+D:\Study\Yuliya\Lab4\UbuntuPlugin\obj\Debug\UbuntuPlugin.dll
+D:\Study\Yuliya\Lab4\UbuntuPlugin\obj\Debug\UbuntuPlugin.pdb

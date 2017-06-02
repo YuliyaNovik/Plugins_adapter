@@ -1,0 +1,20 @@
+D:\учеба\4 сем\ООП\PluginApi\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\PluginApi\bin\Debug\PluginApi.pdb
+D:\учеба\4 сем\ООП\PluginApi\obj\Debug\PluginApi.csprojResolveAssemblyReference.cache
+D:\учеба\4 сем\ООП\PluginApi\obj\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\PluginApi\obj\Debug\PluginApi.pdb
+D:\учеба\4 сем\ООП\Lab4\PluginApi\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab4\PluginApi\bin\Debug\PluginApi.pdb
+D:\учеба\4 сем\ООП\Lab4\PluginApi\obj\Debug\PluginApi.csprojResolveAssemblyReference.cache
+D:\учеба\4 сем\ООП\Lab4\PluginApi\obj\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab4\PluginApi\obj\Debug\PluginApi.pdb
+D:\Study\Yuliya\Lab4\PluginApi\bin\Debug\PluginApi.dll
+D:\Study\Yuliya\Lab4\PluginApi\bin\Debug\PluginApi.pdb
+D:\Study\Yuliya\Lab4\PluginApi\obj\Debug\PluginApi.csprojResolveAssemblyReference.cache
+D:\Study\Yuliya\Lab4\PluginApi\obj\Debug\PluginApi.dll
+D:\Study\Yuliya\Lab4\PluginApi\obj\Debug\PluginApi.pdb
+D:\учеба\4 сем\ООП\Lab5\PluginApi\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab5\PluginApi\bin\Debug\PluginApi.pdb
+D:\учеба\4 сем\ООП\Lab5\PluginApi\obj\Debug\PluginApi.csprojResolveAssemblyReference.cache
+D:\учеба\4 сем\ООП\Lab5\PluginApi\obj\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab5\PluginApi\obj\Debug\PluginApi.pdb

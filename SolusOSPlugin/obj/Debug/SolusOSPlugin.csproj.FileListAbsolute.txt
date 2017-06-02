@@ -1,0 +1,12 @@
+D:\учеба\4 сем\ООП\Lab4\SolusOSPlugin\bin\Debug\SolusOSPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\SolusOSPlugin\bin\Debug\SolusOSPlugin.pdb
+D:\учеба\4 сем\ООП\Lab4\SolusOSPlugin\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab4\SolusOSPlugin\obj\Debug\SolusOSPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\SolusOSPlugin\obj\Debug\SolusOSPlugin.pdb
+D:\Study\Yuliya\Lab4\SolusOSPlugin\bin\Debug\SolusOSPlugin.dll
+D:\Study\Yuliya\Lab4\SolusOSPlugin\bin\Debug\SolusOSPlugin.pdb
+D:\Study\Yuliya\Lab4\SolusOSPlugin\bin\Debug\PluginApi.dll
+D:\Study\Yuliya\Lab4\SolusOSPlugin\bin\Debug\PluginApi.pdb
+D:\Study\Yuliya\Lab4\SolusOSPlugin\obj\Debug\SolusOSPlugin.csprojResolveAssemblyReference.cache
+D:\Study\Yuliya\Lab4\SolusOSPlugin\obj\Debug\SolusOSPlugin.dll
+D:\Study\Yuliya\Lab4\SolusOSPlugin\obj\Debug\SolusOSPlugin.pdb

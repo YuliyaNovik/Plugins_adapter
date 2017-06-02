@@ -1,0 +1,11 @@
+D:\учеба\4 сем\ООП\Lab5\PluginAdapter\bin\Debug\PluginAdapter.dll
+D:\учеба\4 сем\ООП\Lab5\PluginAdapter\bin\Debug\PluginAdapter.pdb
+D:\учеба\4 сем\ООП\Lab5\PluginAdapter\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab5\PluginAdapter\bin\Debug\PluginApi.pdb
+D:\учеба\4 сем\ООП\Lab5\PluginAdapter\obj\Debug\PluginAdapter.csprojResolveAssemblyReference.cache
+D:\учеба\4 сем\ООП\Lab5\PluginAdapter\obj\Debug\PluginAdapter.dll
+D:\учеба\4 сем\ООП\Lab5\PluginAdapter\obj\Debug\PluginAdapter.pdb
+D:\учеба\4 сем\ООП\Lab5\PluginAdapter\bin\Debug\ArchivingPlugin.dll
+D:\учеба\4 сем\ООП\Lab5\PluginAdapter\bin\Debug\IArchivingPlugin.dll
+D:\учеба\4 сем\ООП\Lab5\PluginAdapter\bin\Debug\ArchivingPlugin.pdb
+D:\учеба\4 сем\ООП\Lab5\PluginAdapter\bin\Debug\IArchivingPlugin.pdb

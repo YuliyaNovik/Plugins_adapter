@@ -1,0 +1,21 @@
+D:\учеба\4 сем\ООП\Lab4\CommodoreOSPlugin\bin\Debug\CommodoreOSPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\CommodoreOSPlugin\bin\Debug\CommodoreOSPlugin.pdb
+D:\учеба\4 сем\ООП\Lab4\CommodoreOSPlugin\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab4\CommodoreOSPlugin\bin\Debug\PluginApi.pdb
+D:\учеба\4 сем\ООП\Lab4\CommodoreOSPlugin\obj\Debug\CommodoreOSPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\CommodoreOSPlugin\obj\Debug\CommodoreOSPlugin.pdb
+D:\учеба\4 сем\ООП\Lab4\CommodoreOSPlugin\obj\Debug\CommodoreOSPlugin.csprojResolveAssemblyReference.cache
+D:\Study\Yuliya\Lab4\CommodoreOSPlugin\bin\Debug\CommodoreOSPlugin.dll
+D:\Study\Yuliya\Lab4\CommodoreOSPlugin\bin\Debug\CommodoreOSPlugin.pdb
+D:\Study\Yuliya\Lab4\CommodoreOSPlugin\bin\Debug\PluginApi.dll
+D:\Study\Yuliya\Lab4\CommodoreOSPlugin\bin\Debug\PluginApi.pdb
+D:\Study\Yuliya\Lab4\CommodoreOSPlugin\obj\Debug\CommodoreOSPlugin.csprojResolveAssemblyReference.cache
+D:\Study\Yuliya\Lab4\CommodoreOSPlugin\obj\Debug\CommodoreOSPlugin.dll
+D:\Study\Yuliya\Lab4\CommodoreOSPlugin\obj\Debug\CommodoreOSPlugin.pdb
+D:\учеба\4 сем\ООП\Lab5\CommodoreOSPlugin\bin\Debug\CommodoreOSPlugin.dll
+D:\учеба\4 сем\ООП\Lab5\CommodoreOSPlugin\bin\Debug\CommodoreOSPlugin.pdb
+D:\учеба\4 сем\ООП\Lab5\CommodoreOSPlugin\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab5\CommodoreOSPlugin\bin\Debug\PluginApi.pdb
+D:\учеба\4 сем\ООП\Lab5\CommodoreOSPlugin\obj\Debug\CommodoreOSPlugin.csprojResolveAssemblyReference.cache
+D:\учеба\4 сем\ООП\Lab5\CommodoreOSPlugin\obj\Debug\CommodoreOSPlugin.dll
+D:\учеба\4 сем\ООП\Lab5\CommodoreOSPlugin\obj\Debug\CommodoreOSPlugin.pdb

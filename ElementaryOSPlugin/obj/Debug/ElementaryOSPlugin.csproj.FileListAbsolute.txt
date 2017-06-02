@@ -1,0 +1,12 @@
+D:\учеба\4 сем\ООП\Lab4\ElementaryOSPlugin\bin\Debug\ElementaryOSPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\ElementaryOSPlugin\bin\Debug\ElementaryOSPlugin.pdb
+D:\учеба\4 сем\ООП\Lab4\ElementaryOSPlugin\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab4\ElementaryOSPlugin\obj\Debug\ElementaryOSPlugin.dll
+D:\учеба\4 сем\ООП\Lab4\ElementaryOSPlugin\obj\Debug\ElementaryOSPlugin.pdb
+D:\Study\Yuliya\Lab4\ElementaryOSPlugin\bin\Debug\ElementaryOSPlugin.dll
+D:\Study\Yuliya\Lab4\ElementaryOSPlugin\bin\Debug\ElementaryOSPlugin.pdb
+D:\Study\Yuliya\Lab4\ElementaryOSPlugin\bin\Debug\PluginApi.dll
+D:\Study\Yuliya\Lab4\ElementaryOSPlugin\bin\Debug\PluginApi.pdb
+D:\Study\Yuliya\Lab4\ElementaryOSPlugin\obj\Debug\ElementaryOSPlugin.csprojResolveAssemblyReference.cache
+D:\Study\Yuliya\Lab4\ElementaryOSPlugin\obj\Debug\ElementaryOSPlugin.dll
+D:\Study\Yuliya\Lab4\ElementaryOSPlugin\obj\Debug\ElementaryOSPlugin.pdb
