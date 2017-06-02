@@ -1,0 +1,86 @@
+D:\учеба\4 сем\ООП\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.exe.config
+D:\учеба\4 сем\ООП\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.exe
+D:\учеба\4 сем\ООП\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.pdb
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.csprojResolveAssemblyReference.cache
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\MainWindow.g.cs
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Pages\Add.g.cs
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Pages\Edit.g.cs
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Pages\View.g.cs
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\App.g.cs
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Plugins_hierarchy_MarkupCompile.cache
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Plugins_hierarchy_MarkupCompile.lref
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\MainWindow.baml
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Pages\Add.baml
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Pages\Edit.baml
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Pages\View.baml
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.g.resources
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.Properties.Resources.resources
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.csproj.GenerateResource.Cache
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.exe
+D:\учеба\4 сем\ООП\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.pdb
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.exe.config
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.exe
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.pdb
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.csprojResolveAssemblyReference.cache
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\MainWindow.g.cs
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Pages\Add.g.cs
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Pages\Edit.g.cs
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Pages\View.g.cs
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\App.g.cs
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy_MarkupCompile.cache
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy_MarkupCompile.lref
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.exe
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.pdb
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\bin\Debug\PluginApi.dll
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\bin\Debug\PluginApi.pdb
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\MainWindow.baml
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Pages\Add.baml
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Pages\Edit.baml
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Pages\View.baml
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.g.resources
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.Properties.Resources.resources
+D:\учеба\4 сем\ООП\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.csproj.GenerateResource.Cache
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.exe.config
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.exe
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.pdb
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\bin\Debug\PluginApi.dll
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\bin\Debug\PluginApi.pdb
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.csprojResolveAssemblyReference.cache
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\MainWindow.g.cs
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Pages\Add.g.cs
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Pages\Edit.g.cs
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Pages\View.g.cs
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\App.g.cs
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy_MarkupCompile.cache
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy_MarkupCompile.lref
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\MainWindow.baml
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Pages\Add.baml
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Pages\Edit.baml
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Pages\View.baml
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.g.resources
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.Properties.Resources.resources
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.csproj.GenerateResource.Cache
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.exe
+D:\Study\Yuliya\Lab4\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.pdb
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.exe.config
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.exe
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.pdb
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.exe
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\bin\Debug\Plugins_hierarchy.pdb
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\bin\Debug\PluginApi.pdb
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.csprojResolveAssemblyReference.cache
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\MainWindow.g.cs
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Pages\Add.g.cs
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Pages\Edit.g.cs
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Pages\View.g.cs
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\App.g.cs
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Plugins_hierarchy_MarkupCompile.cache
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Plugins_hierarchy_MarkupCompile.lref
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\MainWindow.baml
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Pages\Add.baml
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Pages\Edit.baml
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Pages\View.baml
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.g.resources
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.Properties.Resources.resources
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\obj\Debug\Plugins_hierarchy.csproj.GenerateResource.Cache
+D:\учеба\4 сем\ООП\Lab5\Plugins_hierarchy\bin\Debug\PluginApi.dll

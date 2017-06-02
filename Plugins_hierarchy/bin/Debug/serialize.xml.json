@@ -1,0 +1,1 @@
+{"ArrayOfAnyType":{"xsi":"http://www.w3.org/2001/XMLSchema-instance","xsd":"http://www.w3.org/2001/XMLSchema","_value":[{"anyType":{"type":"BaseType","_value":[{"title":{"_value":"asdf"}},{"systemVersion":{"_value":"sdfg"}},{"coreVersion":{"_value":"sdfg"}},{"systemName":{"_value":"sdfg"}}]}}]}}
